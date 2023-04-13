@@ -16,6 +16,10 @@ Please refer to .env.example for what it looks like.
 
 This is an example that shows you how to summarize a Youtube video by its transcript.
 
-### [Summarize_Bilibili_Video.ipynb.ipynb](./Summarize_Bilibili_Video.ipynb.ipynb)
+### [Summarize_With_Loaders.ipynb](./Summarize_With_Loaders.ipynb)
 
-This is an example that shows you how to summarize a Bilibili video.
+This is an example that shows you how to use document loaders to summarize the following resources:
+1. URL
+2. PowerPoint
+3. ReadTheDocs site
+4. PDF
